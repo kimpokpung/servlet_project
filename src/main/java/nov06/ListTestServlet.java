@@ -1,7 +1,7 @@
 package nov06;
 
 import java.io.IOException;
-import java.util.ArrayLis;
+import java.util.ArrayList;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
