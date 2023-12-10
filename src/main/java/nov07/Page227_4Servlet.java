@@ -3,7 +3,7 @@ package nov07;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
+import java.sql.PreparedStatemen;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.HashMap;
