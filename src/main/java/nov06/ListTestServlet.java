@@ -33,7 +33,7 @@ public class ListTestServlet extends HttpServlet {
 		ArrayList al1 = new ArrayList();
 		al1.add(100);//정수 저장
 		al1.add(3.14);//실수 저장
-		al1.add("KOREA");//문자열 저장
+		al1.add("KORE");//문자열 저장
 		Employee e1 = new Employee();//첫번째 사원
 		e1.employee_id = 100;//사번
 		e1.first_name = "홍";//성
